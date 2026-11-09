@@ -8,6 +8,7 @@ Portal de anúncios de iPhones em segunda mão, com área reservada. Página ún
 - Megamenu "Explorar", por estado e por modelo.
 - Página de resultados com filtros ativos, ordenação e estado vazio.
 - Página de anúncio, guardados, os meus anúncios, vender (com pré-visualização) e ajuda.
+- Gestão dos próprios anúncios: editar, marcar como vendido e reativar.
 - Perfil público dos vendedores, com os anúncios ativos de cada um.
 - Mensagens para quem tem sessão iniciada (lista de conversas, histórico e resposta).
 - Autenticação de demonstração, tema claro e escuro.
